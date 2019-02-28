@@ -1,0 +1,22 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "Working through the Jest docs for practice",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahflynn/jest-practice.git"
+  },
+  "author": "Sarah Flynn <sflynn.pdx@gmail.com> (https://github.com/sarahflynn)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahflynn/jest-practice/issues"
+  },
+  "homepage": "https://github.com/sarahflynn/jest-practice#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
